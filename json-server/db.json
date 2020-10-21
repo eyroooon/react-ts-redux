@@ -1,0 +1,40 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Jogging",
+      "dateStart": "2020-10-19T07:15:29.744Z",
+      "dateEnd": "2020-10-19T08:15:29.744Z"
+    },
+    {
+      "title": "Learning TypeScript",
+      "dateStart": "2020-10-19T09:15:29.744Z",
+      "dateEnd": "2020-10-19T10:15:29.744Z",
+      "id": 2
+    },
+    {
+      "title": "sdsadsa",
+      "dateStart": "2020-10-21T09:00:39.308Z",
+      "dateEnd": "2020-10-21T09:00:43.077Z",
+      "id": 3
+    },
+    {
+      "title": "xzczxcz",
+      "dateStart": "2020-10-21T09:00:44.748Z",
+      "dateEnd": "2020-10-21T09:00:49.130Z",
+      "id": 4
+    },
+    {
+      "title": "xzczxcxz",
+      "dateStart": "2020-10-21T09:01:23.316Z",
+      "dateEnd": "2020-10-21T09:01:26.658Z",
+      "id": 5
+    },
+    {
+      "title": "Mommy",
+      "dateStart": "2020-10-21T09:54:47.160Z",
+      "dateEnd": "2020-10-21T09:56:05.965Z",
+      "id": 6
+    }
+  ]
+}
